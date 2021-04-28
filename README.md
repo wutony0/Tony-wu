@@ -1,4 +1,5 @@
-## Welcome to GitHub
+## Welcome to my GitHub page
+![Tony](tony-photo.PNG)
 
 You can use the [editor on GitHub](https://github.com/wutony0/tonywu/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Tony](tony-photo.PNG)
 
 ```markdown
 Syntax highlighted code block
